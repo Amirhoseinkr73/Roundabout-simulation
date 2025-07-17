@@ -1,0 +1,13 @@
+<configuration>
+   <input>
+       <net-file value="net.net.xml"/>
+       <route-files value="flow.rou.xml"/>
+	   <additional-files value="edge.add.xml"/>
+   </input>
+   
+   <time>
+       <begin value="0"/>
+	   <step-length value="0.5" />
+	   <end value="8100"/>
+   </time>
+</configuration>
