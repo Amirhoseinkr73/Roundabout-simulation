@@ -20,10 +20,10 @@ You can adjust the CAV/AV penetration rate by modifying the vehicle distribution
 
 📊 Findings: CAVs improve both link-level and network-level capacity, with diminishing returns at high penetration rates (>80%).
 
-📄 Reference Paper:
-Karbasi & Saffarzadeh (2020) — Impact of Connected and Automated Vehicles on Capacity of Roundabout using IDM Car-Following Model 
+📄 Reference:
+This repository is based on the following publication:
+Karbasi, A. H., & Saffarzadeh, M. (2020). Impact of Connected and Automated Vehicles on Capacity of Roundabout using IDM Car-Following Model.
+ResearchGate Link
 
-
-https://www.researchgate.net/publication/344176537_Impact_of_connected_and_automated_vehicles_on_capacity_of_roundabout_using_IDM_car_following_model
 📢:
-If you use this repository or build upon this work in your research, please cite the above paper to acknowledge the original contribution.
+If you use this repository or build upon this work in your research, please cite the above paper to acknowledge the original contributio
