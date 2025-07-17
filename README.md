@@ -8,10 +8,6 @@ Microscopic simulation using SUMO with IDM-based car-following behavior
 
 Editable CAV/AV penetration rate via the route file (default file reflects a single scenario)
 
-Capacity estimation using both Papageorgiou and Underwood speed-density models
-
-One-minute aggregated output analysis to evaluate flow and critical density
-
 ⚙️ Customizability:
 
 The provided files simulate one predefined scenario.
